@@ -3,10 +3,10 @@
 ## SSH into cloud server, download data locally.
 
 # Define Server Name
-$ComputerName = "3.212.102.221"
+$ComputerName = ""
 
 # Define UserName
-$UserName = "admin"
+$UserName = ""
 
 #Define the Private Key file path
 $KeyFile = "C:\temp\LightsailDefaultKey-us-east-1.pem"
